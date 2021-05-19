@@ -1,0 +1,25 @@
+.title1{
+    background-color: rgb(189, 165, 33);
+    height: 75px;
+}
+
+.title1 h1{
+    font-size: 26px;
+    color: red;
+    text-align: center;
+}
+
+.title1 p{
+    text-align: center;
+}
+
+.summary1 {
+    background-color: rgb(25, 184, 25);
+}
+
+#number-one{
+    border: solid black;
+    margin-right: 194px;
+    position: absolute;
+    left: 100px;
+}
